@@ -40,13 +40,13 @@ style_duo_accent(
 
 - When traveling as a group on the ground, lemurs hold their tails high like flags to keep the large group together.
 
-- The Duke Lemur Center provides more information [here](https://lemur.duke.edu/accordions/ring-tailed-lemurs-species-page/)
+- The Duke Lemur Center provides more information [on their official webpage](https://lemur.duke.edu/accordions/ring-tailed-lemurs-species-page/)
 
 ] <!--end of pull left-->
 
 .pull-right[
 
-```{r, echo=FALSE, fig.alt=""}
+```{r, fig.alt="Ring-tailed lemurs with alternating black and white rings along the entire length of their tail", echo=FALSE}
 knitr::include_graphics("ring-tailed-lemur.jpg")
 ```
 

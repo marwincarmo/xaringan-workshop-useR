@@ -1,3 +1,16 @@
 .big {
-  font-size: 2em;
+  font-size: 3em;
+  color: seagreen;
+  font-style: italic;
+}
+.fade{
+  opacity: 0.66;
+}
+.bottom-right{
+  position: absolute;
+  width: 200px;
+  height: 450px;
+  bottom: 1.5em;
+  right: 2em;
+  border: solid;
 }

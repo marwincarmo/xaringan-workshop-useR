@@ -37,7 +37,7 @@ class: center, middle
 ### Female
 <img 
 src="common-black-lemur-female.jpg" 
-alt="Common black lemur with a millipede in one hand and flies hovering overhead"
+alt="Female common black lemur with brown-orange fur and white ear tufts"
 width="325px"
 />
 ] <!--end of pull left-->
