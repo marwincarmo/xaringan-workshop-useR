@@ -31,11 +31,10 @@ knitr::opts_chunk$set(
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
-
 style_duo_accent(
-  primary_color = "#1381B0",  # Blue
-  secondary_color = "#FF961C", # Yellow/orange
-  inverse_header_color = "#FFFFFF"
+  primary_color = "#003078",
+  secondary_color = "#5694ca",
+  inverse_header_color = "#d4351c"
 )
 ```
 
@@ -65,7 +64,7 @@ name: colors
 .left-column[
 Text color
 
-[Link Color](#3)
+[#1d70b8](#3)
 
 **Bold Color**
 
